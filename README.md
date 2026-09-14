@@ -36,7 +36,7 @@ overlaid text — ready for TikTok/Reels/Shorts.
 
 1. Clone or download this repo, then move into the folder:
    ```
-   cd deltarune_capcutter
+   cd capcutter_folder
    ```
 
 2. (Recommended) Create and activate a virtual environment:
